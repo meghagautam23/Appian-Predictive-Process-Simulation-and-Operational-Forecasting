@@ -27,7 +27,7 @@ All within a single, interactive dashboard.
 
 ## 🌟 Key Features
 
-### 🧠 Honey AI Chatbot
+### 🧠 HONEY(Holistic Operations Navigation & Efficiency Yielder) AI Chatbot
 A context-aware AI assistant acting as an **Operations Expert**.
 - Answers queries related to SLAs, staffing, and workload
 - Powered by **Groq Llama-3**
