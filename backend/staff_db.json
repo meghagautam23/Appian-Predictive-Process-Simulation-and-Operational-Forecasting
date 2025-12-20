@@ -1,0 +1,81 @@
+[
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "role": "Intake Specialist",
+        "status": "Break",
+        "efficiency": 88,
+        "skills": [
+            "Data Entry"
+        ],
+        "shift": "Evening"
+    },
+    {
+        "id": 3,
+        "name": "Charlie Davis",
+        "role": "Approver",
+        "status": "Active",
+        "efficiency": 91,
+        "skills": [
+            "Legal",
+            "Risk"
+        ],
+        "shift": "Morning"
+    },
+    {
+        "id": 4,
+        "name": "Dana Lee",
+        "role": "Auditor",
+        "status": "Offline",
+        "efficiency": 0,
+        "skills": [
+            "Audit"
+        ],
+        "shift": "Night"
+    },
+    {
+        "id": 5,
+        "name": "Ethan Hunt",
+        "role": "Intake Specialist",
+        "status": "Active",
+        "efficiency": 98,
+        "skills": [
+            "Speed",
+            "QC"
+        ],
+        "shift": "Morning"
+    },
+    {
+        "id": 6,
+        "name": "jayesh pani",
+        "role": "Intake Specialist",
+        "status": "Active",
+        "efficiency": 75,
+        "skills": [
+            "Data Entry"
+        ],
+        "shift": "Night"
+    },
+    {
+        "id": 7,
+        "name": "akki",
+        "role": "Sr. Reviewer",
+        "status": "Active",
+        "efficiency": 75,
+        "skills": [
+            "Audit"
+        ],
+        "shift": "Evening"
+    },
+    {
+        "id": 8,
+        "name": "megha",
+        "role": "Auditor",
+        "status": "Active",
+        "efficiency": 75,
+        "skills": [
+            "Data Entry"
+        ],
+        "shift": "Evening"
+    }
+]
