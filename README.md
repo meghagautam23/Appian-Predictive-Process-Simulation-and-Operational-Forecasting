@@ -209,3 +209,15 @@ appian-predictive-project/
 
 * **Error: `401 Unauthorized` in Chatbot**
 * Check `backend/main.py` and ensure your API Key is correct and inside quotes `" "`.
+---
+
+## 🤝 Contributions
+
+This project was designed, developed, and maintained by:
+
+- **Hemang Dubey**  
+  🔗 LinkedIn: https://www.linkedin.com/in/hemang-dubey-7b801628b/
+
+Contributions, suggestions, and improvements are always welcome.  
+Feel free to fork the repository, raise issues, or submit pull requests.
+
