@@ -221,6 +221,8 @@ This project was designed, developed, and maintained by:
 - **Akshat Agrawal**  
   🔗 LinkedIn: https://www.linkedin.com/in/akshat-agrawal-3b0b13255/
 
+- **Jayesh Pani**  
+  🔗 LinkedIn: https://www.linkedin.com/in/jayesh-pani-a9ab7628a/
 
 Contributions, suggestions, and improvements are always welcome.  
 Feel free to fork the repository, raise issues, or submit pull requests.
