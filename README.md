@@ -218,7 +218,7 @@ This project was designed, developed, and maintained by:
 - **Hemang Dubey**  
   🔗 LinkedIn: https://www.linkedin.com/in/hemang-dubey-7b801628b/
 
-  - **Akshat Agrawal**  
+- **Akshat Agrawal**  
   🔗 LinkedIn: https://www.linkedin.com/in/akshat-agrawal-3b0b13255/
 
 
