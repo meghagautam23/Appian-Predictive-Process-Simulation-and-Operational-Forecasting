@@ -218,6 +218,10 @@ This project was designed, developed, and maintained by:
 - **Hemang Dubey**  
   🔗 LinkedIn: https://www.linkedin.com/in/hemang-dubey-7b801628b/
 
+  - **Akshat Agrawal**  
+  🔗 LinkedIn: https://www.linkedin.com/in/akshat-agrawal-3b0b13255/
+
+
 Contributions, suggestions, and improvements are always welcome.  
 Feel free to fork the repository, raise issues, or submit pull requests.
 
