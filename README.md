@@ -220,6 +220,9 @@ This project was designed, developed, and maintained by:
 
 - **Akshat Agrawal**  
   🔗 LinkedIn: https://www.linkedin.com/in/akshat-agrawal-3b0b13255/
+  
+- **Megha Gautam**  
+  🔗 LinkedIn: https://www.linkedin.com/in/megha-gautam-8533b2292/
 
 - **Jayesh Pani**  
   🔗 LinkedIn: https://www.linkedin.com/in/jayesh-pani-a9ab7628a/
