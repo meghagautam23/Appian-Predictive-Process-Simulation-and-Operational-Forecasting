@@ -13,7 +13,7 @@ from typing import List, Optional
 # --- INITIALIZATION ---
 app = FastAPI(title="Appian Predictive Operations AI")
 
-# CORS Setup (Frontend connection ke liye)
+# CORS Setup
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"], 
