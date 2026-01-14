@@ -222,7 +222,7 @@ This project was designed, developed, and maintained by:
   🔗 LinkedIn: https://www.linkedin.com/in/akshat-agrawal-3b0b13255/
   
 - **Megha Gautam**  
-  🔗 LinkedIn: https://www.linkedin.com/in/megha-gautam-8533b2292/
+  🔗 LinkedIn: https://www.linkedin.com/in/megha-gautam-b26781318/
 
 - **Jayesh Pani**  
   🔗 LinkedIn: https://www.linkedin.com/in/jayesh-pani-a9ab7628a/
